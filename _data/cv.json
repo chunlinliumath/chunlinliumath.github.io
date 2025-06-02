@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "Chunlin Liu",
+    "email": "chunlinliu@mail.ustc.edu.cn",
+    #"phone": "",
+    "website": "https://https://chunlinliumath.github.io/",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Warsaw",
+      "countryCode": "Poland",
       "region": ""
     },
     "profiles": [
@@ -33,35 +33,17 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Science and Technology of China",
+      "area": "Ph.D in Dynamical systems",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2019",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
+   
   "skills": [],
-  "languages": [],
+  "languages": [English, Chinese],
   "interests": [],
   "references": [],
   "publications": [
