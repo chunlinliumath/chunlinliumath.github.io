@@ -2,9 +2,6 @@
 permalink: /
 title: "Chunlin Liu - Personal Academic Website"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Welcome to my academic homepage!
