@@ -36,10 +36,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=DKt-PpMAAAAJ&hl=zh-CN&authuser=1"
 #  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6277-013X"
-%  semantic         : # URL
- % pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  semantic         : # URL
+# pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Chunlin-Liu-7"
- % scopus           : # URL
+# scopus           : # URL
 
   
 
