@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D from  University of Science and Technology of China, 2024
-* B.S. from Qufu Normal University, GitHub University, 2012
+* Ph.D from University of Science and Technology of China, 2024
+* B.S. from Qufu Normal University, 2019
 
 Work experience
 ======
@@ -24,12 +24,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dynamical systems, Ergodic theory
+
 
 Publications
 ======
@@ -47,9 +43,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-      </ul>
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
