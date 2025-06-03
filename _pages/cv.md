@@ -24,10 +24,10 @@ Work experience
   
 Skills
 ======
-* Dynamical systems, Ergodic theory
+* Dynamical systems, Ergodic theory, Combinatorics
 
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
