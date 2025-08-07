@@ -12,13 +12,18 @@ redirect_from:
 Education
 ======
 * Ph.D from University of Science and Technology of China, 2024
+   Supervisor: Wen Huang
 * B.S. from Qufu Normal University, 2019
 
 Work experience
 ======
   * October 2024: Professor (Assistant) 
-  * Polish Academy of Sciences
-  * Supervisor: Yonatan Gutman
+    Polish Academy of Sciences
+    Supervisor: Yonatan Gutman
+
+  * May 2024: Postdoctoral Fellow
+    Dalian University of Technology
+    Supervisor: Zhenxin Liu 
 
 
   
