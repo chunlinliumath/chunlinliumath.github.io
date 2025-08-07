@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D from University of Science and Technology of China, 2024
-   Supervisor: Wen Huang
+* Ph.D from University of Science and Technology of China, 2024, Supervisor: Wen Huang
+   
 * B.S. from Qufu Normal University, 2019
 
 Work experience
