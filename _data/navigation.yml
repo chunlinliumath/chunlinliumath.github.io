@@ -16,7 +16,8 @@ main:
 
  # - title: "Teaching"
   #  url: /teaching/    
-
+- title: "CV"
+    url: /cv/
 - title: "Publication List (PDF)"
   url: /files/Only_Publishion.pdf
     
@@ -26,8 +27,7 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  
     
   # - title: "CV"
   #   url: /cv-json/
