@@ -21,7 +21,7 @@ Work Experience
 * Oct. 2024 – present: Assistant Professor (Postdoc), Institute of Mathematics, Polish Academy of Sciences, Poland  
   Supervisor: Prof. Yonatan Gutman
 
-* May 2024 – Sep. 2024: Postdoctoral Fellow, Dalian University of Technology, China  
+* May 2024 – present: Postdoctoral Fellow, Dalian University of Technology, China  
   Supervisor: Prof. Zhenxin Liu
 
 
