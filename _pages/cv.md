@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ======
-* Oct. 2024 – present: Assistant Professor (Postdoc), Institute of Mathematics, Polish Academy of Sciences, Poland  
+* Oct. 2024 – present: Assistant Professor, Institute of Mathematics, Polish Academy of Sciences, Poland  
   Supervisor: Prof. Yonatan Gutman
 
 * May 2024 – present: Postdoctoral Fellow, Dalian University of Technology, China  
