@@ -11,19 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D from University of Science and Technology of China, 2024, Supervisor: Wen Huang
-   
-* B.S. from Qufu Normal University, 2019
+* Ph.D. in Mathematics, University of Science and Technology of China, 2024  
+  Supervisor: Prof. Wen Huang
 
-Work experience
+* B.S. in Mathematics, Qufu Normal University, 2019
+
+Work Experience
 ======
-  * October 2024: Professor (Assistant) 
-    Polish Academy of Sciences
-    Supervisor: Yonatan Gutman
+* Oct. 2024 – present: Assistant Professor (Postdoc), Institute of Mathematics, Polish Academy of Sciences, Poland  
+  Supervisor: Prof. Yonatan Gutman
 
-  * May 2024: Postdoctoral Fellow
-    Dalian University of Technology
-    Supervisor: Zhenxin Liu 
+* May 2024 – Sep. 2024: Postdoctoral Fellow, Dalian University of Technology, China  
+  Supervisor: Prof. Zhenxin Liu
 
 
   
