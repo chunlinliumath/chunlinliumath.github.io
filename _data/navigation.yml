@@ -12,21 +12,26 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
- # - title: "Teaching"
-  #  url: /teaching/    
-- title: "CV"
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  - title: "CV"
     url: /cv/
-- title: "Publication List (PDF)"
-  url: /files/Only_Publishion.pdf
-    
- # - title: "Portfolio"
- #   url: /portfolio/
-        
- # - title: "Blog Posts"
- #   url: /year-archive/
-    
+
+  - title: "Publication List (PDF)"
+    url: /files/Only_Publishion.pdf
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Guide"
+  #   url: /markdown/
+
   
     
   # - title: "CV"
