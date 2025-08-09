@@ -14,6 +14,9 @@ Education
 * Ph.D. in Mathematics, University of Science and Technology of China, 2024  
   Supervisor: Prof. Wen Huang
 
+* Visiting Ph.D. Student in Mathematics, Durham University, Mar. 2023 – Mar. 2024  
+  Supervisor: Prof. Chunrong Feng and Huaizhong Zhao
+
 * B.S. in Mathematics, Qufu Normal University, 2019
 
 Work Experience
