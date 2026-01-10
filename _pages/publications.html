@@ -5,32 +5,86 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>
+  You can also find my articles on
+  <a href="YOUR_GOOGLE_SCHOLAR_LINK">my Google Scholar profile</a>.
+</p>
 
+<h2 class="pub-section">Journal Articles</h2>
+<ol class="publist">
 
+  <li>
+    <strong>Sequence entropy and IT-tuples for minimal group actions</strong>,
+    <em>Advances in Mathematics</em> (2025).
+    (with Xiangtong Wang, Leiye Xu).
+    [<a class="pub-tag" href="PDF_OR_PUBLISHER_LINK">PDF</a>]
+  </li>
 
+  <li>
+    <strong>Ergodicity and mixing of invariant capacities and applications</strong>,
+    <em>Annals of Applied Probability</em>, to appear (2025).
+    (with Chunrong Feng, Wen Huang, Huaizhong Zhao).
+    [<a class="pub-tag" href="PDF_OR_PUBLISHER_LINK">PDF</a>]
+  </li>
+
+  <li>
+    <strong>Mean Li-Yorke chaos along any infinite sequence for infinite-dimensional random dynamical systems</strong>,
+    <em>Journal of Differential Equations</em> (2024).
+    (with Feng Tan, Jianhua Zhang).
+    [<a class="pub-tag" href="PDF_OR_PUBLISHER_LINK">PDF</a>]
+  </li>
+
+  <li>
+    <strong>Directional Kronecker algebra for Zq-actions</strong>,
+    <em>Ergodic Theory and Dynamical Systems</em> (2024).
+    (with Leiye Xu).
+    [<a class="pub-tag" href="PDF_OR_PUBLISHER_LINK">PDF</a>]
+  </li>
+
+  <li>
+    <strong>Metric mean dimension via preimage structures</strong>.
+    [<a class="pub-tag" href="PDF_OR_PUBLISHER_LINK">PDF</a>]
+  </li>
+
+</ol>
+
+<h2 class="pub-section">Preprints</h2>
+<ol class="publist">
+
+  <li>
+    <strong>Title of your preprint</strong>, preprint.
+    (with ...).
+    [<a class="pub-tag" href="https://arxiv.org/abs/...">arXiv</a>]
+    [<a class="pub-tag" href="PDF_LINK">PDF</a>]
+  </li>
+
+</ol>
+
+<style>
+/* Minimal styling to mimic the clean "Preprints" look */
+.pub-section{
+  font-size: 2.2rem;
+  font-weight: 900;
+  border-bottom: 4px solid currentColor;
+  display: inline-block;
+  padding-bottom: .15rem;
+  margin: 1.6rem 0 .8rem;
+}
+.publist{
+  margin-top: .2rem;
+  padding-left: 1.4rem;
+}
+.publist li{
+  margin: .65rem 0;
+  line-height: 1.5;
+}
+.pub-tag{
+  font-weight: 650;
+  text-decoration: none;
+}
+.pub-tag:hover{
+  text-decoration: underline;
+}
+</style>
