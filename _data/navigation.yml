@@ -20,8 +20,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publication List (PDF)"
-    url: /files/Only_publishion.pdf
+ # - title: "Publication List (PDF)"
+  #  url: /files/Only_publishion.pdf
 
   # - title: "Portfolio"
   #   url: /portfolio/
