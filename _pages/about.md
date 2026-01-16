@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chunlin Liu - Personal Academic Website"
+title: "Chunlin Liu (刘春麟） - Personal Academic Website"
 author_profile: true
 ---
 
