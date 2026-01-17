@@ -6,7 +6,9 @@ author_profile: true
 
 ## Awards & Honors
 
+
 - **2026** — Excellent Doctoral Dissertation Award of Anhui Province.
+- **2025** — First Prize in the Inaugural Academic Achievement Award of the Mathematics Society of Liaoning Province.
 - **2025** — National Postdoctoral Program for Innovative Talents.
 - **2025** — General Program of China Postdoctoral Science Foundation.
 - **2025** — Excellent Doctoral Dissertation of the Chinese Academy of Sciences。
