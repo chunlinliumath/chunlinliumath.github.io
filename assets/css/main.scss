@@ -75,4 +75,40 @@ body::before {
   box-shadow: none !important;
 }
 
+/* ---- Make the top masthead blend into background ---- */
+
+/* 1) masthead itself */
+.masthead{
+  background: rgba(255,255,255,0.25) !important;   /* 想更融入就 0.15~0.35 调 */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  box-shadow: none !important;
+}
+
+/* 2) inner wrappers in minimal-mistakes */
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav{
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+/* 3) nav dropdown on small screens (optional) */
+.greedy-nav .hidden-links{
+  background: rgba(255,255,255,0.85) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(0,0,0,0.06);
+}
+
+/* 4) link colors (optional, for readability) */
+.masthead a,
+.greedy-nav a{
+  color: rgba(0,0,0,0.78) !important;
+}
+.masthead a:hover,
+.greedy-nav a:hover{
+  color: rgba(0,0,0,0.95) !important;
+}
 
