@@ -64,3 +64,15 @@ body::before {
   z-index: 1;
 }
 
+.initial-content,
+.page,
+.archive,
+.sidebar,
+.page__inner-wrap,
+.author__content,
+.author__urls-wrapper{
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+
