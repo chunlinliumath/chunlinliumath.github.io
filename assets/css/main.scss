@@ -54,7 +54,7 @@ body::before {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 900px auto; /* 你可调大/小 */
-  opacity: 0.06;              /* 越小越淡：0.03~0.10 */
+  opacity: 0.10;              /* 越小越淡：0.03~0.10 */
   pointer-events: none;
   z-index: -1;
 }
