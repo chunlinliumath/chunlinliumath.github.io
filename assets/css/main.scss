@@ -112,3 +112,41 @@ body::before {
   color: rgba(0,0,0,0.95) !important;
 }
 
+/* ---- remove the white box in the masthead/nav ---- */
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+#site-nav,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav ul,
+.greedy-nav li,
+.greedy-nav a {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+/* optional: add a subtle glass bar across full width (blended) */
+.masthead{
+  position: relative;
+}
+
+.masthead::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background: rgba(255,255,255,0.18);   /* 0.12~0.25 调“融入程度” */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  pointer-events:none;
+  z-index: 0;
+}
+
+/* keep nav text above the glass */
+.masthead__inner-wrap{
+  position: relative;
+  z-index: 1;
+}
