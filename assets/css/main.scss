@@ -52,7 +52,7 @@ body::before {
   background-repeat: repeat;
   background-position: center 35%;
   background-size: 1050px auto;
-  opacity: 0.10;
+  opacity: 0.20;
   filter: grayscale(100%) contrast(140%);
   pointer-events: none;
   z-index: 0;     /* 不要 -1 */
