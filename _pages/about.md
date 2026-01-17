@@ -2,9 +2,7 @@
 permalink: /
 title: "Chunlin Liu (刘春麟） - Personal Academic Website"
 author_profile: true
-header:
-  overlay_image: /images/lorenz.svg
-  overlay_filter: 0.85
+
 ---
 
 Welcome to my academic homepage!
