@@ -1,10 +1,10 @@
 ---
 permalink: /markdown/
 title: "Markdown"
-author_profile: false
 sitemap: false
-published: false
+redirect_to: /
 ---
+
 
 
 ## Locations of key files/directories
