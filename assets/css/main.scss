@@ -42,9 +42,7 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-body {
-  position: relative;
-}
+body { position: relative; }
 
 body::before {
   content: "";
@@ -52,9 +50,17 @@ body::before {
   inset: 0;
   background-image: url("/assets/images/Lorenz_attractor_yb.svg");
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: 900px auto; /* 你可调大/小 */
-  opacity: 0.10;              /* 越小越淡：0.03~0.10 */
+  background-position: center 35%;
+  background-size: 1050px auto;
+  opacity: 0.05;
+  filter: grayscale(100%) contrast(140%);
   pointer-events: none;
-  z-index: -1;
+  z-index: 0;     /* 不要 -1 */
 }
+
+/* 把页面内容抬到背景上面 */
+.masthead, .initial-content, .page__footer {
+  position: relative;
+  z-index: 1;
+}
+
