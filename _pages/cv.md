@@ -28,10 +28,7 @@ Work Experience
 
 
 
-  
-Skills
-======
-* Dynamical systems, Ergodic theory, Combinatorics
+
 
 
 Selected Publications
