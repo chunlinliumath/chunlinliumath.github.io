@@ -15,7 +15,7 @@ Education
   Supervisor: Prof. Wen Huang
 
 * Visiting Ph.D. Student in Mathematics, Durham University, Mar. 2023 – Mar. 2024  
-  Supervisor: Prof. Huaizhong Zhao and Chunrong Feng
+  Supervisor: Prof. [Prof. Huaizhong Zhao](https://www.durham.ac.uk/staff/huaizhong-zhao/) and Chunrong Feng
 
 * B.S. in Mathematics, Qufu Normal University, 2015 - 2019
 
