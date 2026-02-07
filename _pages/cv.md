@@ -15,7 +15,7 @@ Education
   Supervisor: Prof. [Wen Huang](https://faculty.ustc.edu.cn/huangwen1/zh_CN/index/994143/list/index.htm)
 
 * Visiting Ph.D. Student in Mathematics, Durham University, Mar. 2023 – Mar. 2024  
-  Supervisor: Prof. [Huaizhong Zhao](https://www.durham.ac.uk/staff/huaizhong-zhao/) and Prof. [Chunrong Feng](https://www.durham.ac.uk/staff/chunrong-feng/))
+  Supervisor: Prof. [Huaizhong Zhao](https://www.durham.ac.uk/staff/huaizhong-zhao/) and Prof. [Chunrong Feng](https://www.durham.ac.uk/staff/chunrong-feng/)
 
 * B.S. in Mathematics, Qufu Normal University, 2015 - 2019
 
