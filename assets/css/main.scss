@@ -150,3 +150,9 @@ body::before {
   position: relative;
   z-index: 1;
 }
+
+/* ---- allow sidebar to show all items ---- */
+.sidebar.sticky {
+  max-height: none !important;
+  overflow-y: visible !important;
+}
