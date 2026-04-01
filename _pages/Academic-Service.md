@@ -20,8 +20,6 @@ I have served as a reviewer/referee for the following journals:
 - *Chaos, Solitons and Fractals*
 - *Periodica Mathematica Hungarica*
 
-## Reviewing and Professional Service
-
-- ## Other Academic Service
+## Other Academic Service
 
 - Reviewer for [Mathematical Reviews (MathSciNet)](https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/author.html?mrauthid=1376213)
