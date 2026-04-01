@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer Review
 
-I have served as a reviewer/referee for the following journals:
+I have served as a reviewer for the following journals:
 
 - *Journal of Dynamics and Differential Equations*
 - *Proceedings of the American Mathematical Society*
