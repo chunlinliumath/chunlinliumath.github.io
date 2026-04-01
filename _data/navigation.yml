@@ -23,6 +23,8 @@ main:
   - title: "Awards"
     url: /awards/
 
+   - title: "Service"
+    url: /service/
  # - title: "Publication List (PDF)"
   #  url: /files/Only_publishion.pdf
 
