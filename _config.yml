@@ -40,7 +40,10 @@ author:
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Chunlin-Liu-7"
 # scopus           : # URL
-
+ urls:
+    - label: "AMS MathSciNet"
+      icon: "fas fa-book"
+      url: "https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/publications.html?pg1=INDI&s1=1376213"
   
 
 # Publication Category - The following the list of publication categories and their headings
