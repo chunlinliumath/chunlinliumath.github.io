@@ -10,6 +10,8 @@ location: "Jena, Germany"
 
 [Talk webpage](https://www.fmi.uni-jena.de/en/41503/one-day-workshop-on-topological-dynamics)
 
+**Abstract.**
+
 In this talk, I will discuss recent joint work with Leiye Xu and Shuhao Zhang on local notions of complexity for measure-preserving systems under actions of countably infinite discrete groups. The talk will focus on three related notions: sequence entropy tuples, IT tuples, and mean sensitive tuples.
 
 It is known from the independence approach to dynamics that IT tuples are topological sequence entropy tuples, while measure-theoretic sequence entropy tuples are also known to be topological sequence entropy tuples. This naturally leads to the question of whether measure-theoretic sequence entropy tuples are directly related to IT tuples. Our first result answers this question affirmatively: every measure-theoretic sequence entropy tuple is an IT tuple.
