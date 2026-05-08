@@ -3,7 +3,7 @@ title: "Sequence Entropy Tuples, Independence, and Mean Sensitivity for Invarian
 collection: talks
 type: "Talk"
 venue: "One-Day Workshop on Topological Dynamics"
-date: 2026-06-04
+date: 2026-05-08
 location: "Jena, Germany"
 ---
 
