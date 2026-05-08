@@ -2,7 +2,6 @@
 title: "Sequence Entropy Tuples, Independence, and Mean Sensitivity for Invariant Measures"
 collection: talks
 type: "Talk"
-permalink: /talks/2026-06-04-jena-workshop/
 venue: "One-Day Workshop on Topological Dynamics"
 date: 2026-06-04
 location: "Jena, Germany"
