@@ -1,36 +1,41 @@
 .container {
-    width:100%;
-    border:1px solid #d3d3d3;
-}
-.container div {
-    width:100%;
-}
-.container .header {
-    background-color:#d3d3d3;
-    padding: 2px;
-    cursor: pointer;
-    font-weight: bold;
-}
-.container .content {
-    display: none;
-    padding : 5px;
-}
+    width: 100%;
+    border: 1px solid #d3d3d3;
 
-/* Fix mobile text color in collapsible blocks */
-.container,
-.container .header,
-.container .content,
-.container .header *,
-.container .content * {
+    /* Prevent mobile dark mode from turning the text white */
+    color-scheme: only light;
+
+    background-color: #f7f7f7;
     color: #222 !important;
     -webkit-text-fill-color: #222 !important;
 }
 
+.container div {
+    width: 100%;
+}
+
 .container .header {
     background-color: #f7f7f7;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-weight: bold;
     border-radius: 10px;
+
+    color: #222 !important;
+    -webkit-text-fill-color: #222 !important;
 }
 
 .container .content {
+    display: none;
+    padding: 8px 12px;
     background-color: #f7f7f7;
+
+    color: #222 !important;
+    -webkit-text-fill-color: #222 !important;
+}
+
+.container .header *,
+.container .content * {
+    color: #222 !important;
+    -webkit-text-fill-color: #222 !important;
 }
