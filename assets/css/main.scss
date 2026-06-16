@@ -207,3 +207,42 @@ body::before {
 .archive details > summary::-webkit-details-marker {
   color: #222 !important;
 }
+
+/* Make links blue inside collapsible sections */
+
+.page__content details a,
+.page__content details a *,
+.archive details a,
+.archive details a *,
+.page__content .container a,
+.page__content .container a *,
+.archive .container a,
+.archive .container a * {
+  color: #0066cc !important;
+  -webkit-text-fill-color: #0066cc !important;
+}
+
+.page__content details a,
+.archive details a,
+.page__content .container a,
+.archive .container a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.page__content details a:visited,
+.archive details a:visited,
+.page__content .container a:visited,
+.archive .container a:visited {
+  color: #0066cc !important;
+  -webkit-text-fill-color: #0066cc !important;
+}
+
+.page__content details a:hover,
+.archive details a:hover,
+.page__content .container a:hover,
+.archive .container a:hover {
+  color: #004c99 !important;
+  -webkit-text-fill-color: #004c99 !important;
+}
