@@ -15,3 +15,22 @@
     display: none;
     padding : 5px;
 }
+
+/* Fix mobile text color in collapsible blocks */
+.container,
+.container .header,
+.container .content,
+.container .header *,
+.container .content * {
+    color: #222 !important;
+    -webkit-text-fill-color: #222 !important;
+}
+
+.container .header {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
+
+.container .content {
+    background-color: #f7f7f7;
+}
