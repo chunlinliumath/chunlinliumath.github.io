@@ -156,3 +156,54 @@ body::before {
   max-height: none !important;
   overflow-y: visible !important;
 }
+
+/* Fix collapsible publication subject cards on mobile / dark mode */
+
+.page__content details,
+.archive details,
+.page__content .container,
+.archive .container {
+  color-scheme: only light;
+  forced-color-adjust: none;
+
+  background-color: #f7f7f7 !important;
+  border: 1px solid rgba(0, 0, 0, 0.18) !important;
+  border-radius: 12px !important;
+
+  color: #222 !important;
+  -webkit-text-fill-color: #222 !important;
+}
+
+.page__content details > summary,
+.archive details > summary,
+.page__content .container .header,
+.archive .container .header {
+  background-color: #f7f7f7 !important;
+  color: #222 !important;
+  -webkit-text-fill-color: #222 !important;
+
+  font-weight: 700;
+  cursor: pointer;
+  padding: 16px 20px;
+  border-radius: 12px;
+}
+
+.page__content details *,
+.archive details *,
+.page__content details > summary *,
+.archive details > summary *,
+.page__content .container *,
+.archive .container * {
+  color: #222 !important;
+  -webkit-text-fill-color: #222 !important;
+}
+
+.page__content details > summary::marker,
+.archive details > summary::marker {
+  color: #222 !important;
+}
+
+.page__content details > summary::-webkit-details-marker,
+.archive details > summary::-webkit-details-marker {
+  color: #222 !important;
+}
