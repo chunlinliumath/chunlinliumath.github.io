@@ -13,6 +13,8 @@ I have served as a reviewer for the following journals:
 - *Proceedings of the American Mathematical Society*
 - *Acta Mathematica Sinica, English Series*
 - *Studia Mathematica*
+- *Communications in Mathematics and Statistics*
+- *Journal of Dynamical and Control Systems*
 - *Topology and its Applications*
 - *Qualitative Theory of Dynamical Systems*
 - *Probability, Uncertainty and Quantitative Risk*
