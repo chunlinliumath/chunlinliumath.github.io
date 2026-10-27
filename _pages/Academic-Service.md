@@ -9,6 +9,7 @@ author_profile: true
 
 I have served as a reviewer for the following journals:
 
+- *Discrete and Continuous Dynamical Systems*
 - *Journal of Dynamics and Differential Equations*
 - *Proceedings of the American Mathematical Society*
 - *Acta Mathematica Sinica, English Series*
