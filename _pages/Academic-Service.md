@@ -17,6 +17,7 @@ I have served as a reviewer for the following journals:
 - *Communications in Mathematics and Statistics*
 - *Journal of Dynamical and Control Systems*
 - *Topology and its Applications*
+- *Dynamical Systems An International Journal*
 - *Qualitative Theory of Dynamical Systems*
 - *Probability, Uncertainty and Quantitative Risk*
 - *Frontiers of Mathematics*
